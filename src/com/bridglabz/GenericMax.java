@@ -5,7 +5,7 @@ public class GenericMax {
         System.out.println("Welcome to Generic Program.");
         Integer a = 2, b = 4, c =6;
         Float x = 2.3f, y =7.8f , z = 6.7f;
-        String l = "Apple" , m = "Banana" , n = "Orange";
+        String l = "Apple" , m = "Banana" , n = "Peach";
         getMaximum (a,b,c);
         getMaximum (x,y,z);
         getMaximum (l,m,n);
